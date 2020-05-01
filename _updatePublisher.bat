@@ -1,5 +1,6 @@
+REM ======== FHIR ImplementationGuide Publisher Setup / Update script ==========
+REM Version 0.1.17
 @ECHO OFF
-
 SETLOCAL
 
 SET dlurl=https://storage.googleapis.com/ig-build/org.hl7.fhir.publisher.jar
