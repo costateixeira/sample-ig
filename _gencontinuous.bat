@@ -1,2 +1,1 @@
-@ECHO OFF
-CALL ./_genonce.bat -watch
+@scripts\_gencontinuous.bat
