@@ -83,6 +83,12 @@
       </reference>
       <name value="Value set for no code system"/>
     </resource>
+    <resource>
+      <reference>
+        <reference value="TestScript/testscript-example-readtest"/>
+      </reference>
+      <name value="TestScript for myPatient read operation"/>
+    </resource>
 <!--    <resource>
       <reference>
         <reference value="Library/example"/>
