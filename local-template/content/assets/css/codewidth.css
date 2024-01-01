@@ -22,3 +22,7 @@ pre.graphql             {
 pre.xml              {
 	width: unset;
 }
+
+pre code {
+    white-space: pre;
+}
