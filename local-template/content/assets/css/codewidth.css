@@ -4,6 +4,7 @@ pre.spec             {
 
 pre.json             {
 	width: unset;
+    overflow: auto;
 }
 
 pre.rdf             {
