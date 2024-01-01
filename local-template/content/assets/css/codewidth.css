@@ -1,10 +1,15 @@
-pre.spec             {
-	width: unset;
+
+pre code {
+    white-space: pre; /* unwrap code*/
 }
 
 pre.json             {
 	width: unset;
-    overflow: auto !important;
+    overflow: auto !important; /*force scrollbar to appear*/
+}
+
+pre.spec             {
+	width: unset;
 }
 
 pre.rdf             {
@@ -23,6 +28,3 @@ pre.xml              {
 	width: unset;
 }
 
-pre code {
-    white-space: pre;
-}
